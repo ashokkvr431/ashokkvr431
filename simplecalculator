@@ -1,0 +1,15 @@
+num1 = float(input("Enter first num :"))
+num2 = float(input("Enter Second num :"))
+operator = input("Choose operation (+, -, *, /) : ")
+
+if(operator == "+"):
+    result = num1 + num2
+elif(operator == "-"):
+    result = num1 - num2
+elif(operator == "*"):
+    result = num1 * num2
+elif(operator == "/"):
+    result = num1 / num2
+else:
+    result = "Invalid"
+print(result)
