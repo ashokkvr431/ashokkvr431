@@ -1,4 +1,4 @@
-### i'm Ashok currently working in Criativo
+### I'm Ashok currently working in Criativo
 
 <!--
 **ashokkvr431/ashokkvr431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
